@@ -1,4 +1,4 @@
-# hive-standalone
+# docker-hive-standalone
 
 ## Usage
 
